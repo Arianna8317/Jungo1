@@ -1,0 +1,13 @@
+INFO About page accessed
+INFO "GET /about/ HTTP/1.1" 200 145
+INFO Root page 
+INFO "GET / HTTP/1.1" 200 125
+INFO About page accessed
+INFO "GET /about/ HTTP/1.1" 200 145
+
+INFO About page accessed
+INFO "GET /about/ HTTP/1.1" 200 145
+INFO Root page 
+INFO "GET / HTTP/1.1" 200 182
+INFO Root page 
+INFO "GET / HTTP/1.1" 200 182

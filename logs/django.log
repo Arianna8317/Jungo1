@@ -1,0 +1,36 @@
+INFO 2023-10-17 17:41:28,891 Watching for file changes with StatReloader
+INFO 2023-10-17 17:41:50,337 About page accessed
+INFO 2023-10-17 17:41:50,340 "GET /about/ HTTP/1.1" 200 145
+INFO 2023-10-17 17:41:52,493 Root page 
+INFO 2023-10-17 17:41:52,495 "GET / HTTP/1.1" 200 125
+INFO 2023-10-17 17:42:05,405 About page accessed
+INFO 2023-10-17 17:42:05,411 "GET /about/ HTTP/1.1" 200 145
+INFO 2023-10-17 17:42:30,071 C:\Users\Ирина\Documents\Разработчик\Python\Django\Homework1\myapp\views.py changed, reloading.
+INFO 2023-10-17 17:42:30,974 Watching for file changes with StatReloader
+INFO 2023-10-17 17:42:36,616 C:\Users\Ирина\Documents\Разработчик\Python\Django\Homework1\myapp\views.py changed, reloading.
+INFO 2023-10-17 17:42:37,536 Watching for file changes with StatReloader
+INFO 2023-10-17 17:42:43,265 C:\Users\Ирина\Documents\Разработчик\Python\Django\Homework1\myapp\views.py changed, reloading.
+INFO 2023-10-17 17:42:44,172 Watching for file changes with StatReloader
+INFO 2023-10-17 17:42:47,740 C:\Users\Ирина\Documents\Разработчик\Python\Django\Homework1\myapp\views.py changed, reloading.
+INFO 2023-10-17 17:42:48,344 Watching for file changes with StatReloader
+INFO 2023-10-17 17:42:51,930 C:\Users\Ирина\Documents\Разработчик\Python\Django\Homework1\myapp\views.py changed, reloading.
+INFO 2023-10-17 17:42:52,810 Watching for file changes with StatReloader
+INFO 2023-10-17 17:42:54,318 C:\Users\Ирина\Documents\Разработчик\Python\Django\Homework1\myapp\views.py changed, reloading.
+INFO 2023-10-17 17:42:55,191 Watching for file changes with StatReloader
+INFO 2023-10-17 17:43:00,853 C:\Users\Ирина\Documents\Разработчик\Python\Django\Homework1\myapp\views.py changed, reloading.
+INFO 2023-10-17 17:43:01,744 Watching for file changes with StatReloader
+INFO 2023-10-17 17:43:03,273 C:\Users\Ирина\Documents\Разработчик\Python\Django\Homework1\myapp\views.py changed, reloading.
+INFO 2023-10-17 17:43:04,124 Watching for file changes with StatReloader
+INFO 2023-10-17 17:43:05,638 C:\Users\Ирина\Documents\Разработчик\Python\Django\Homework1\myapp\views.py changed, reloading.
+INFO 2023-10-17 17:43:06,448 Watching for file changes with StatReloader
+INFO 2023-10-17 17:43:08,855 C:\Users\Ирина\Documents\Разработчик\Python\Django\Homework1\myapp\views.py changed, reloading.
+INFO 2023-10-17 17:43:09,695 Watching for file changes with StatReloader
+INFO 2023-10-17 17:43:11,246 C:\Users\Ирина\Documents\Разработчик\Python\Django\Homework1\myapp\views.py changed, reloading.
+INFO 2023-10-17 17:43:12,054 Watching for file changes with StatReloader
+INFO 2023-10-17 17:44:06,756 Watching for file changes with StatReloader
+INFO 2023-10-17 17:44:16,081 About page accessed
+INFO 2023-10-17 17:44:16,085 "GET /about/ HTTP/1.1" 200 145
+INFO 2023-10-17 17:44:19,100 Root page 
+INFO 2023-10-17 17:44:19,104 "GET / HTTP/1.1" 200 182
+INFO 2023-10-17 17:44:23,088 Root page 
+INFO 2023-10-17 17:44:23,090 "GET / HTTP/1.1" 200 182
